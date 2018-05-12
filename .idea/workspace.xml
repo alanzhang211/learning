@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5dc54cd-6a07-40e9-bc94-1ddeed56e533" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/juc/pom.xml" afterPath="$PROJECT_DIR$/juc/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/juc/cyclicBarrier/CyclicBarrierDemo.java" afterPath="$PROJECT_DIR$/juc/cyclicBarrier/CyclicBarrierDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/juc/cyclicBarrier/Runner.java" afterPath="$PROJECT_DIR$/juc/cyclicBarrier/Runner.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/juc/target/" />
@@ -26,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Runner.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Runner.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/juc/cyclicBarrier/Runner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+            <state relative-caret-position="46">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -46,16 +43,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CyclicBarrierDemo.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CyclicBarrierDemo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/juc/cyclicBarrier/CyclicBarrierDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="421">
+              <caret line="30" column="1" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="30" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#455#456#0" expanded="true" />
-                <element signature="e#508#509#0" expanded="true" />
-                <element signature="e#607#615#0" expanded="true" />
+                <element signature="e#453#454#0" expanded="true" />
+                <element signature="e#506#507#0" expanded="true" />
+                <element signature="e#604#612#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -83,8 +80,8 @@
       <list>
         <option value="$PROJECT_DIR$/juc/pom.xml" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/juc/cyclicBarrier/CyclicBarrierDemo.java" />
         <option value="$PROJECT_DIR$/juc/cyclicBarrier/Runner.java" />
+        <option value="$PROJECT_DIR$/juc/cyclicBarrier/CyclicBarrierDemo.java" />
       </list>
     </option>
   </component>
@@ -759,15 +756,15 @@
       <option name="presentableId" value="Default" />
       <updated>1521376525973</updated>
       <workItem from="1521376528168" duration="502000" />
-      <workItem from="1526101579953" duration="1776000" />
+      <workItem from="1526101579953" duration="1905000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2278000" />
+    <option name="totallyTimeSpent" value="2407000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -853,24 +850,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/juc/cyclicBarrier/CyclicBarrierDemo.java">
+    <entry file="file://$PROJECT_DIR$/juc/cyclicBarrier/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-            <element signature="e#508#509#0" expanded="true" />
-            <element signature="e#607#615#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="46">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/juc/cyclicBarrier/Runner.java">
+    <entry file="file://$PROJECT_DIR$/juc/cyclicBarrier/CyclicBarrierDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-          <folding />
+        <state relative-caret-position="421">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="30" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#604#612#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
